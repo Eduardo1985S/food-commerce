@@ -118,6 +118,7 @@ export const Container = styled.aside<ContainerProps>`
       ul {
         flex-direction: row;
         align-items: center;
+        justify-content: space-evenly;
       }
 
       li {
